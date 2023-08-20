@@ -1,4 +1,4 @@
-# Read Me Generator
+# ReadMe Generator
   ![License](https://img.shields.io/badge/License-Mit-blue.svg)
 
   ## Description
@@ -12,13 +12,13 @@
   - [License](#license)
   
   ## Usage
-  Respond to prompts from the terminal window.
+  Respond to prompts from the terminal window after entering script"npm start"
   
   ## Contribution
   Provide comments on the JoeCool-Engineering repositories.
   
   ## Test
-  Not Test for this file.
+  No test provided at this time.
   
   ## License
 
