@@ -11,7 +11,7 @@ const questions = [['input','description', 'Enter a brief desription of this pro
 ['list', 'selectLicense', 'Select the license you would like to apply.']];
 
 const output = [];
-// TODO: Create an array of questions for user input
+// Create an array of questions for user input
 for (const q of questions) {
   const obj = {
     type: 'input',
@@ -21,10 +21,10 @@ for (const q of questions) {
   output.push(obj);
 }
 
-// TODO: Create a function to write README file
+// Create a function to write README file
 function writeToFile(fileName, data) {} 
 
-// TODO: Create a function to initialize app
+// Create a function to initialize app
 function init() {}
 
 // Function call to initialize app
