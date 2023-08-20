@@ -1,0 +1,29 @@
+{
+  "name": "joecool_readme_generator",
+  "version": "1.0.0",
+  "description": "README File Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeCool-Engineer/JoeCool_README_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/JoeCool-Engineer/JoeCool_README_Generator/issues"
+  },
+  "homepage": "https://github.com/JoeCool-Engineer/JoeCool_README_Generator#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
